@@ -8,4 +8,4 @@ server/pubic/upload是放multiparty方法上传的<br><br>
 ## 运行项目<br>
 进入server npm run start<br>
 进入upload npm run dev<br>
-![头像](https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg)
+![效果演示](https://github.com/pig-L/uploader/blob/master/GIF.gif)
